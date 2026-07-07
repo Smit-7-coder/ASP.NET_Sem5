@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="HELLO.aspx.cs" Inherits="ASP.NET_Project.HELLO" %>
+﻿    <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="HELLO.aspx.cs" Inherits="ASP.NET_Project.HELLO" %>
 
 <!DOCTYPE html>
 
@@ -11,7 +11,7 @@
         <asp:Label ID="Label1" runat="server" Text="Emial"  ForeColor="#000099"></asp:Label>
         &nbsp;<asp:TextBox ID="txtEmail" runat="server" OnTextChanged="TextBox1_TextChanged1"></asp:TextBox>
         <p>
-            <asp:Label ID="Label2" runat="server" Text="Password" ForeColor="#000099"></asp:Label>
+            <asp:Label ID="Label2" runat="server" Text="Emial"  ForeColor="#000099"></asp:Label>
             &nbsp;<asp:TextBox ID="txtPassword" runat="server" Height="25px"></asp:TextBox>
         </p>
         <p>

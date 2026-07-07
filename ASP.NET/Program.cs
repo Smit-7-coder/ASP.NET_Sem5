@@ -17,8 +17,12 @@
             //Factorial.fact();
             //Positive_nageitive.run();
 
-            Table.mul();
-            
+            //Table.mul();
+            //UpperCase.Run();
+            //isUpper.Run();
+            mobileNumber.Run();
+
         }
     }
 }
+    
