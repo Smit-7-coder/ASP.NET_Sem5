@@ -20,7 +20,17 @@
             //Table.mul();
             //UpperCase.Run();
             //isUpper.Run();
-            mobileNumber.Run();
+            //mobileNumber.Run();
+            //SumOfNumbers.sum();
+            //Table_WhileLoop.table();
+            //UpperCase.Run();
+            //ToggleCase.toggle();
+
+            //PrefixName.prefix();
+            //PrintName.print();
+            //FibonacciSeries.series();
+            //NumberToWords.words();
+            ArmstrongNumber.armstrong();
 
         }
     }
