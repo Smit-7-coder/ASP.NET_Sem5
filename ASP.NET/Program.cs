@@ -1,4 +1,5 @@
-﻿namespace ASP.NET
+﻿using ASP.NET.Lab_Tutorial2;
+namespace ASP.NET
 {
     internal class Program
     {
@@ -30,7 +31,25 @@
             //PrintName.print();
             //FibonacciSeries.series();
             //NumberToWords.words();
-            ArmstrongNumber.armstrong();
+            //ArmstrongNumber.armstrong();
+
+            Star_Pattern.Run();
+            //Number_Pattern.Run();
+            //NumberIncreased_Pattern.Run();
+            //pyramid.Run()            
+            //NumberPyramid.Run();
+            //Sum_Series.Run();
+            //dimond_Pyramid.Run();
+
+
+
+
+
+
+            //P1.Run();
+            //P2.Run();
+            //P3.Run();
+
 
         }
     }
