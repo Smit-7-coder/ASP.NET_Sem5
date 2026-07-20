@@ -33,13 +33,13 @@ namespace ASP.NET
             //NumberToWords.words();
             //ArmstrongNumber.armstrong();
 
-            Star_Pattern.Run();
+            //Star_Pattern.Run();
             //Number_Pattern.Run();
             //NumberIncreased_Pattern.Run();
-            //pyramid.Run()            
+            //pyramid.Run();
             //NumberPyramid.Run();
             //Sum_Series.Run();
-            //dimond_Pyramid.Run();
+            dimond_Pyramid.Run();
 
 
 
