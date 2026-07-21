@@ -39,7 +39,7 @@ namespace ASP.NET
             //pyramid.Run();
             //NumberPyramid.Run();
             //Sum_Series.Run();
-            dimond_Pyramid.Run();
+            //dimond_Pyramid.Run();
 
 
 
@@ -49,6 +49,13 @@ namespace ASP.NET
             //P1.Run();
             //P2.Run();
             //P3.Run();
+            //P4.Run();
+            //P5.Run();
+            //P6.Run(args);
+            //P7.Run();
+            //P8.Run();
+            //P11.Run();
+            P12.Run();
 
 
         }
