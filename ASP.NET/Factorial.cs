@@ -14,7 +14,7 @@ namespace ASP.NET // Defines a namespace named ASP.NET
 
             Console.Write("Enter Number For Factorial: "); // Displays a message to enter a number
 
-            String str = Console.ReadLine(); // Reads input from the user and stores it as a string
+            string str = Console.ReadLine(); // Reads input from the user and stores it as a string
 
             number = Convert.ToInt32(str); // Converts the string input into an integer
 

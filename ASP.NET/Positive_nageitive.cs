@@ -12,7 +12,7 @@ namespace ASP.NET
         {
             int number;
             Console.Write("Enter Number: ");
-            String str = Console.ReadLine();
+            string str = Console.ReadLine();
 
             number = Convert.ToInt32(str);
 
