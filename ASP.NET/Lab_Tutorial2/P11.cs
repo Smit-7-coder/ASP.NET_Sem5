@@ -27,6 +27,7 @@ namespace ASP.NET.Lab_Tutorial2
                 sum += arr[i];
             }
             Console.WriteLine("Sum of array elements: " + sum);
+            Console.WriteLine("\n25SOEIT13027 SAKARIYA SMIT");
 
         }
     }

@@ -20,7 +20,7 @@ namespace ASP.NET.Lab_Tutorial2
 
             // Display sum
             Console.WriteLine("\nSum of Elements : {0}", sum);
-
+            Console.WriteLine("\n25SOEIT13027 SAKARIYA SMIT");
             Console.ReadKey();
         }
     }

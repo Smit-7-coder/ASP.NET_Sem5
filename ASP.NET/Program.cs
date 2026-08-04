@@ -1,4 +1,5 @@
 ﻿using ASP.NET.Lab_Tutorial2;
+using ASP.NET.Lab_Tutorial3;
 namespace ASP.NET
 {
     internal class Program
@@ -55,12 +56,23 @@ namespace ASP.NET
             //P7.Run();
             //P8.Run();
             //P9.Run();
-            P10.Run();
+            //P10.Run();
             //P11.Run();
             //P12.Run();
+            //P13.Run();
+            //P14.Run();
+            //P15.Run();
             //Reverse.Run();
 
 
+
+
+
+
+
+            //P1_3.Run();
+            //P2_3.Run();
+            P3_3.Run();
         }
     }
 }

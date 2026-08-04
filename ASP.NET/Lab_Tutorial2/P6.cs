@@ -13,7 +13,7 @@ public class P6
         {
             Console.WriteLine("Argument {0}: {1}", i + 1, args[i]);
         }
-
+        Console.WriteLine("\n25SOEIT13027 SAKARIYA SMIT");
         Console.ReadKey();
     }
 }

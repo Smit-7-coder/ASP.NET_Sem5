@@ -27,6 +27,7 @@ namespace ASP.NET.Lab_Tutorial2
                     Console.WriteLine(arr[i]);
                 }
             }
+                Console.WriteLine("\n25SOEIT13027 SAKARIYA SMIT");
         }
     }
 }
