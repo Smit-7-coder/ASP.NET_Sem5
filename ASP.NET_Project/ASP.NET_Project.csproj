@@ -71,6 +71,7 @@
     <Content Include="HOME.aspx" />
     <Content Include="registration.aspx" />
     <Content Include="Standard_Control_Demo.aspx" />
+    <Content Include="StudentDetails.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
@@ -110,6 +111,13 @@
     </Compile>
     <Compile Include="Standard_Control_Demo.aspx.designer.cs">
       <DependentUpon>Standard_Control_Demo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudentDetails.aspx.cs">
+      <DependentUpon>StudentDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudentDetails.aspx.designer.cs">
+      <DependentUpon>StudentDetails.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
