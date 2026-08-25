@@ -2,7 +2,7 @@
 
 namespace ASP.NET.Lab_Tutorial3
 {
-    // Base class
+    
     public class calculate
     {
         public virtual void shape()
@@ -12,7 +12,7 @@ namespace ASP.NET.Lab_Tutorial3
     }
 
 
-    // Circle class
+    
     class circle : calculate
     {
         public override void shape()
@@ -28,7 +28,7 @@ namespace ASP.NET.Lab_Tutorial3
     }
 
 
-    // Rectangle class
+    
     class Rectangle : calculate
     {
         public override void shape()
@@ -48,7 +48,7 @@ namespace ASP.NET.Lab_Tutorial3
     }
 
 
-    // Triangle class
+    
     class Triangle : calculate
     {
         public override void shape()
@@ -68,7 +68,7 @@ namespace ASP.NET.Lab_Tutorial3
     }
 
 
-    // Main class
+    
     internal class P17_3
     {
         public static void Run()
@@ -76,21 +76,21 @@ namespace ASP.NET.Lab_Tutorial3
             calculate calculate;
 
 
-            // Circle
+            
             calculate = new circle();
             calculate.shape();
 
             Console.WriteLine();
 
 
-            // Rectangle
+            
             calculate = new Rectangle();
             calculate.shape();
 
             Console.WriteLine();
 
 
-            // Triangle
+            
             calculate = new Triangle();
             calculate.shape();
 
