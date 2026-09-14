@@ -46,7 +46,7 @@ namespace ASP.NET.Lab_Tutorial3
     {
         public static void Run()
         {
-            student s1 = new student(101, "Smit");
+            student s1 = new student(101, "Smitigiri");
             s1.Display();
         }
     }

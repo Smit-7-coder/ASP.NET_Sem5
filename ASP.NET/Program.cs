@@ -6,14 +6,14 @@ namespace ASP.NET
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Name: Sakariya Smit");
+            //Console.WriteLine("Name: KALARIYA Smitigiri");
             //Console.WriteLine("DOB: 29-08-2007");
             //Console.WriteLine("Address: 4, Joshipara, Junagadh");
             //Console.WriteLine("City: JUNAGADH");
             //Console.WriteLine("Pincode: 362001");
             //Console.WriteLine("State: GUJARAT");
             //Console.WriteLine("Country: INDIA");
-            //Console.WriteLine("Email: smit7@gmail.com");
+            //Console.WriteLine("Email: Smitigiri7@gmail.com");
 
             //EVEN_ODD.Evenodd();
             //Factorial.fact();
@@ -73,6 +73,7 @@ namespace ASP.NET
             //P1_3.Run();
             //P2_3.Run();
             //P3_3.Run();
+            //P4_3.Run();
             //P11_3.Run();
             //P11_3.Run();
             //P12_3.Run();
@@ -80,12 +81,30 @@ namespace ASP.NET
             //P14_3.Run();
             //P15_3.Run();
             //P16_3.Run();
-            P17_3.Run();
+            //P17_3.Run();
+            //p7_3.Run();
+            //p8_3.Run();
+            //p9_3.Run();
+            //p10_3.Run();
+            //P19_3.Run();
+            //P20_3.Run();
+            //P21_3.Run();
+            //P22_3.Run();
+            //P23_3.Run();
+            //P24_3.Run();
+            //P25_3.Run();
+            P26_3.Run();
+            //P18.Run();
             //TestProduct.Run(args);
 
             //TestLine.Run();
 
             //DynamicBanking.Run();
+
+            Console.WriteLine("\nName: SAKARIYA SMIT A.");
+            Console.WriteLine("Enrollment No.: 25SOEIT13027");
+
+
         }
     }
 }

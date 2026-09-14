@@ -89,7 +89,7 @@ namespace ASP.NET.Lab_Tutorial3
             Console.WriteLine("Minute: " + c2.GetMinute());
             Console.WriteLine("Second: " + c2.GetSeconds());
 
-            Console.WriteLine("\n SAKARIYA SMIT ");
+            Console.WriteLine("\n KALARIYA Smitigiri ");
 
         }
     }

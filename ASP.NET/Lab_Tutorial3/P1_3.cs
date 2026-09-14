@@ -45,7 +45,7 @@ namespace ASP.NET.Lab_Tutorial3
             s2.AcceptData();
             s2.DisplayData();
 
-            Console.WriteLine("\n SAKARIYA SMIT ");
+            Console.WriteLine("\n KALARIYA Smitigiri ");
 
         }
 

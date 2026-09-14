@@ -51,7 +51,7 @@ namespace ASP.NET.Lab_Tutorial3
     {
         public static void Run()
         {
-            BankAccounts b = new BankAccounts(1001,"Smit",50000);
+            BankAccounts b = new BankAccounts(1001,"Smitigiri",50000);
             b.Deposit(10000);
             b.Withdraw(3000);
             b.BalanceInquery();
