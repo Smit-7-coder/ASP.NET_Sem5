@@ -9,14 +9,14 @@ namespace ASP.NET
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Name: KALARIYA Smitigiri");
+            //Console.WriteLine("Name: SAKARIYA SMIT");
             //Console.WriteLine("DOB: 29-08-2007");
             //Console.WriteLine("Address: 4, Joshipara, Junagadh");
             //Console.WriteLine("City: JUNAGADH");
             //Console.WriteLine("Pincode: 362001");
             //Console.WriteLine("State: GUJARAT");
             //Console.WriteLine("Country: INDIA");
-            //Console.WriteLine("Email: Smitigiri7@gmail.com");
+            //Console.WriteLine("Email: Smit7@gmail.com");
 
             //EVEN_ODD.Evenodd();
             //Factorial.fact();
@@ -117,7 +117,10 @@ namespace ASP.NET
             //P4_5.Run();
             //P5_5.Run();
             //P6_5.Run();
-            P7_5.Run();
+            //P7_5.Run();
+            //P8_5.Run();
+            //P9_5.Run();
+            //P10_5.Run();
 
             Console.WriteLine("\nName: SAKARIYA SMIT A.");
             Console.WriteLine("Enrollment No.: 25SOEIT13027");
