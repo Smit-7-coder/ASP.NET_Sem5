@@ -33,7 +33,7 @@
             <asp:TextBox ID="Contactxt" runat="server"></asp:TextBox>
             <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="Contactxt" ErrorMessage="Enter 10 Digits Contact Number" ForeColor="#FF3300" ValidationExpression="\d{10}"></asp:RegularExpressionValidator>
         </p>
-        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
     </form>
     <p>
 &nbsp;</p>

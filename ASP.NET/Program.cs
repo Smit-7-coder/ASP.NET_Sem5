@@ -1,5 +1,8 @@
 ﻿using ASP.NET.Lab_Tutorial2;
 using ASP.NET.Lab_Tutorial3;
+using ASP.NET.Lab_Tutorial4;
+using ASP.NET.Lab_Tutorial5;
+using ASP.NET.Practice;
 namespace ASP.NET
 {
     internal class Program
@@ -93,13 +96,28 @@ namespace ASP.NET
             //P23_3.Run();
             //P24_3.Run();
             //P25_3.Run();
-            P26_3.Run();
+            //P26_3.Run();
             //P18.Run();
             //TestProduct.Run(args);
 
             //TestLine.Run();
 
             //DynamicBanking.Run();
+
+            //P1_4.Run();
+            //P2_4.Run();
+            //P3_4.Run();
+
+            //employee.Run();
+
+
+            //P1_5.Run();
+            //P2_5.Run();
+            //P3_5.Run();
+            //P4_5.Run();
+            //P5_5.Run();
+            //P6_5.Run();
+            P7_5.Run();
 
             Console.WriteLine("\nName: SAKARIYA SMIT A.");
             Console.WriteLine("Enrollment No.: 25SOEIT13027");
